@@ -1,4 +1,4 @@
-let currentSong = new Audio(/songs/);
+let currentSong = new Audio(`/songs/`);
 let songs;
 let currFolder;
 
